@@ -1,2 +1,2 @@
 # Todo-List
-โปรเจ็ควิชา Mobile Application Development
+โปรเจกต์วิชา Mobile Application Development
